@@ -1,6 +1,6 @@
 # https://codeforces.com/contest/1742
 
-A / Rating : $800$ / Implementation Case_Work
+A / Rating : $800$ / Implementation, Case_Work
 
 B / Rating : $800$ / Implementation, Sorting
 

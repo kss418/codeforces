@@ -1,4 +1,4 @@
-# https://codeforces.com/contest/1992 
+# https://codeforces.com/contest/1992
 
 A / Rating : $800$ / Implementation
 

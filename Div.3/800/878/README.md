@@ -1,4 +1,4 @@
-# https://codeforces.com/contest/1840 
+# https://codeforces.com/contest/1840
 
 A / Rating : $800$ / Implementation
 

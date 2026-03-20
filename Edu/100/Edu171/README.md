@@ -1,4 +1,4 @@
-# https://codeforces.com/contest/2026 
+# https://codeforces.com/contest/2026
 
 A / Rating : $900$ / Constructive, Greedy
 

@@ -1,4 +1,4 @@
-# https://codeforces.com/contest/2049 
+# https://codeforces.com/contest/2049
 
 A / Rating : $-$ / Greedy
 

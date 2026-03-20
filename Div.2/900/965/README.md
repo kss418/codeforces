@@ -1,4 +1,4 @@
-# https://codeforces.com/contest/1998 
+# https://codeforces.com/contest/1998
 
 A / Rating : $800$ / Constructive
 

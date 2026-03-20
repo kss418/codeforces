@@ -8,11 +8,11 @@ C / Rating : $900$ / Constructive
 
 D / Rating : $1100$ / Ad_Hoc
 
-E / Rating : $1200$ / Bit_Masks, Math
+E / Rating : $1200$ / Bit_Mask, Math
 
 F / Rating : $1600$ / Constructive, Ad_Hoc
 
 G / Rating : $1700$ / Deque, Math
 
-H / Rating : $1900$ / Number_Thoery, Binary_Search, Sqrt_Decomposition
+H / Rating : $1900$ / Number_Theory, Binary_Search, Sqrt_Decomposition
 

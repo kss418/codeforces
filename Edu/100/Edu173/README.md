@@ -1,8 +1,8 @@
-# https://codeforces.com/contest/2043 
+# https://codeforces.com/contest/2043
 
 A / Rating : $800$ / DP
 
-B / Rating : $1100$ / Number_Thoery
+B / Rating : $1100$ / Number_Theory
 
 C / Rating : $1600$ / Ad_Hoc
 

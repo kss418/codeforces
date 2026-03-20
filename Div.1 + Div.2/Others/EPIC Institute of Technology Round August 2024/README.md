@@ -1,4 +1,4 @@
-# https://codeforces.com/contest/2002 
+# https://codeforces.com/contest/2002
 
 A / Rating : $800$ / Math
 

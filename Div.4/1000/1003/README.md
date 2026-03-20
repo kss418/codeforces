@@ -14,4 +14,4 @@ E / Rating : $1600$ / Greedy, Constructive
 
 F / Rating : $1700$ / Bruteforce, Trees
 
-G / Rating : $1700$ / Number_Thoery, Sieve
+G / Rating : $1700$ / Number_Theory, Sieve

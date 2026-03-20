@@ -1,6 +1,6 @@
 # https://codeforces.com/contest/2084
 
-A / Rating : $800$ / Consturctive, Math
+A / Rating : $800$ / Constructive, Math
 
 B / Rating : $1100$ / Number_Theory
 

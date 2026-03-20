@@ -2,6 +2,6 @@
 
 A / Rating : $800$ / Implementation
 
-B / Rating : $1100$ / Construtive, Greedy
+B / Rating : $1100$ / Constructive, Greedy
 
-C / Rating : $1400$ / Binary_Serach, Greedy
+C / Rating : $1400$ / Binary_Search, Greedy

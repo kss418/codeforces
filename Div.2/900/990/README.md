@@ -6,6 +6,6 @@ B / Rating : $900$ / Greedy, Strings
 
 C / Rating : $1200$ / Greedy
 
-D / Rating : $1600$ / Prioirty_Queue, Greedy
+D / Rating : $1600$ / Priority_Queue, Greedy
 
 ![My Image](https://github.com/kss418/Codeforces/blob/main/Images/990.png)

@@ -2,9 +2,9 @@
 
 A / Rating : $-$ / Ad_Hoc, Sorting
 
-B / Rating : $-$ / Number_Thery, Ad_Hoc
+B / Rating : $-$ / Number_Theory, Ad_Hoc
 
-C / Rating : $-$ / Math, Number_Thoery
+C / Rating : $-$ / Math, Number_Theory
 
 D / Rating : $-$ / DP, Segment_Tree
 

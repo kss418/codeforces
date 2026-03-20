@@ -1,4 +1,4 @@
-# https://codeforces.com/contest/2007 
+# https://codeforces.com/contest/2007
 
 A / Rating : $800$ / Number_Theory
 

@@ -1,6 +1,6 @@
 # https://codeforces.com/contest/2126
 
-A / Rating : $800$ / Implementaion
+A / Rating : $800$ / Implementation
 
 B / Rating : $800$ / Greedy
 

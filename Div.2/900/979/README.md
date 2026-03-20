@@ -4,7 +4,7 @@ A / Rating : $800$ / Sorting, Greedy
 
 B / Rating : $800$ / Constructive
 
-C / Rating : $1100$ / Greedy, Game_Thoery
+C / Rating : $1100$ / Greedy, Game_Theory
 
 D / Rating : $1700$ / Tree_Set, Ad_Hoc
 

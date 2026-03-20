@@ -1,10 +1,10 @@
-# https://codeforces.com/contest/2031 
+# https://codeforces.com/contest/2031
 
 A / Rating : $800$ / Implementation
 
 B / Rating : $900$ / Greedy
 
-C / Rating : $1300$ / Consturctive
+C / Rating : $1300$ / Constructive
 
 D / Rating : $1700$ / Disjoint_Set
 

@@ -1,4 +1,4 @@
-# https://codeforces.com/contest/1787 
+# https://codeforces.com/contest/1787
 
 A / Rating : $800$ / Constructive
 

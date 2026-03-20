@@ -1,4 +1,4 @@
-# https://codeforces.com/contest/2000 
+# https://codeforces.com/contest/2000
 
 A / Rating : $800$ / Implementation, Strings
 

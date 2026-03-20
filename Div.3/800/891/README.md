@@ -1,3 +1,3 @@
-# https://codeforces.com/contest/1857 
+# https://codeforces.com/contest/1857
 
 A / Rating : $800$ / Math

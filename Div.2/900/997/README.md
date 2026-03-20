@@ -1,8 +1,8 @@
-# https://codeforces.com/contest/2056 
+# https://codeforces.com/contest/2056
 
 A / Rating : $800$ / Math
 
-B / Rating : $1300$ / Topology_Sorting
+B / Rating : $1300$ / Topological_Sorting
 
 C / Rating : $1200$ / Constructive
 

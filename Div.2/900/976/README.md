@@ -1,4 +1,4 @@
-# https://codeforces.com/contest/2020 
+# https://codeforces.com/contest/2020
 
 A / Rating : $800$ / Greedy, Math
 

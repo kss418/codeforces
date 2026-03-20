@@ -1,3 +1,3 @@
-# https://codeforces.com/contest/1989 
+# https://codeforces.com/contest/1989
 
 A / Rating : $800$ / Implementation

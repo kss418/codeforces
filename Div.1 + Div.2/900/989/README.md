@@ -1,4 +1,4 @@
-# https://codeforces.com/contest/2034 
+# https://codeforces.com/contest/2034
 
 A / Rating : $800$ / Math, Number_Theory
 

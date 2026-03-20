@@ -1,4 +1,4 @@
-# https://codeforces.com/contest/2001 
+# https://codeforces.com/contest/2001
 
 A / Rating : $800$ / Implementation
 

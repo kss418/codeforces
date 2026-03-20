@@ -1,4 +1,4 @@
-# https://codeforces.com/contest/1779 
+# https://codeforces.com/contest/1779
 
 B / Rating : $900$ / Constructive
 
