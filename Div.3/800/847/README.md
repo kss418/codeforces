@@ -1,13 +1,13 @@
 # https://codeforces.com/contest/1790
 
-A / Rating : $\color{#8C8C8C}800$ / Implementation, Strings
+A / Rating : $800$ / Implementation, Strings
 
-B / Rating : $\color{#8C8C8C}800$ / Greedy
+B / Rating : $800$ / Greedy
 
-C / Rating : $\color{#8C8C8C}1000$ / Topological_Sorting
+C / Rating : $1000$ / Topological_Sorting
 
-D / Rating : $\color{#7DFE74}1200$ / Binary_Search
+D / Rating : $1200$ / Binary_Search
 
-E / Rating : $\color{#85FFFF}1400$ / Constructive, Bit_Mask
+E / Rating : $1400$ / Constructive, Bit_Mask
 
 ![My Image](https://github.com/kss418/Codeforces/blob/main/Images/847.png)

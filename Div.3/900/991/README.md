@@ -1,15 +1,15 @@
 # https://codeforces.com/contest/2050
 
-A / Rating : $\color{#8C8C8C}-$ / Implementation
+A / Rating : $-$ / Implementation
 
-B / Rating : $\color{#8C8C8C}-$ / Greedy
+B / Rating : $-$ / Greedy
 
-C / Rating : $\color{#8C8C8C}-$ / DP
+C / Rating : $-$ / DP
 
-D / Rating : $\color{#8C8C8C}-$ / Greedy
+D / Rating : $-$ / Greedy
 
-E / Rating : $\color{#8C8C8C}-$ / DP, Strings
+E / Rating : $-$ / DP, Strings
 
-F / Rating : $\color{#8C8C8C}-$ / Number_Theory, Segment_Tree
+F / Rating : $-$ / Number_Theory, Segment_Tree
 
-G / Rating : $\color{#8C8C8C}-$ / DP, Trees, Greedy
+G / Rating : $-$ / DP, Trees, Greedy

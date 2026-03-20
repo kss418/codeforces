@@ -1,7 +1,7 @@
 # https://codeforces.com/contest/1878
 
-A / Rating : $\color{#8C8C8C}800$ / Implementation
+A / Rating : $800$ / Implementation
 
-B / Rating : $\color{#8C8C8C}800$ / Constructive
+B / Rating : $800$ / Constructive
 
-C / Rating : $\color{#8C8C8C}900$ / Math
+C / Rating : $900$ / Math

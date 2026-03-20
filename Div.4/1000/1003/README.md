@@ -1,17 +1,17 @@
 # https://codeforces.com/contest/2065
 
-A / Rating : $\color{#8C8C8C}800$ / Implementation
+A / Rating : $800$ / Implementation
 
-B / Rating : $\color{#8C8C8C}800$ / Greedy
+B / Rating : $800$ / Greedy
 
-C1 / Rating : $\color{#8C8C8C}1100$ / Greedy
+C1 / Rating : $1100$ / Greedy
 
-C1 / Rating : $\color{#7DFE74}1300$ / Binary_Search
+C1 / Rating : $1300$ / Binary_Search
 
-D / Rating : $\color{#7DFE74}1200$ / Sorting, Greedy
+D / Rating : $1200$ / Sorting, Greedy
 
-E / Rating : $\color{#3162C7}1600$ / Greedy, Constructive
+E / Rating : $1600$ / Greedy, Constructive
 
-F / Rating : $\color{#3162C7}1700$ / Bruteforce, Trees
+F / Rating : $1700$ / Bruteforce, Trees
 
-G / Rating : $\color{#3162C7}1700$ / Number_Thoery, Sieve
+G / Rating : $1700$ / Number_Thoery, Sieve

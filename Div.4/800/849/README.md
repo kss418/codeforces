@@ -1,15 +1,15 @@
 # https://codeforces.com/contest/1791 
 
-A / Rating : $\color{#8C8C8C}800$ / Implementation
+A / Rating : $800$ / Implementation
 
-B / Rating : $\color{#8C8C8C}800$ / Implementation
+B / Rating : $800$ / Implementation
 
-C / Rating : $\color{#8C8C8C}800$ / Implementation
+C / Rating : $800$ / Implementation
 
-D / Rating : $\color{#8C8C8C}1000$ / Strings
+D / Rating : $1000$ / Strings
 
-E / Rating : $\color{#8C8C8C}1100$ / Greedy, Sorting
+E / Rating : $1100$ / Greedy, Sorting
 
-F / Rating : $\color{#85FFFF}1500$ / Lazy_Propagation
+F / Rating : $1500$ / Lazy_Propagation
 
-G1 / Rating : $\color{#8C8C8C}1100$ / Greedy, Sorting
+G1 / Rating : $1100$ / Greedy, Sorting
