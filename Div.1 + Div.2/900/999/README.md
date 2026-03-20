@@ -8,5 +8,5 @@ C / Rating : $1600$ / DP
 
 D / Rating : $1600$ / DP, Ad_Hoc
 
-E / Rating : $2000$ / Bruteforce, Sorting, Greedy, Bitmasks
+E / Rating : $2000$ / Bruteforce, Sorting, Greedy, Bit_Mask
 

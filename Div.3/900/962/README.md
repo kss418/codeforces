@@ -8,6 +8,6 @@ C / Rating : $1200$ / Greedy, Strings
 
 D / Rating : $1500$ / Bruteforce
 
-E / Rating : $1600$ / Combinatorics, Tree_map
+E / Rating : $1600$ / Combinatorics, Tree_Map
 
 ![My Image](https://github.com/kss418/Codeforces/blob/main/Images/962.png)

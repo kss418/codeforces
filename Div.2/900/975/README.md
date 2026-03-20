@@ -2,7 +2,7 @@
 
 A / Rating : $800$ / Implementation, Bruteforce
 
-B / Rating : $1200$ / Ad_Hoc, Tree_map
+B / Rating : $1200$ / Ad_Hoc, Tree_Map
 
 C / Rating : $1600$ / Greedy, Number_Theory
 

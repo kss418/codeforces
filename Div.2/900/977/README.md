@@ -2,7 +2,7 @@
 
 A / Rating : $800$ / Greedy
 
-B / Rating : $1200$ / Greedy, Tree_map
+B / Rating : $1200$ / Greedy, Tree_Map
 
 C-1 / Rating : $1300$ / Greedy
 

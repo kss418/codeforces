@@ -93,6 +93,14 @@ $-$
   - `Constructive`
   - `Ad_Hoc`
 
+- Prefer these normalized names over inconsistent variants:
+  - `Bit_Mask` instead of `Bitmasks`
+  - `Strings` instead of `String`
+  - `Trees` instead of `Tree`
+  - `Tree_Map` instead of `Tree_map`
+  - `Disjoint_Set` instead of `DSU`
+  - `Disjoint_Set` instead of `Union_Find`
+
 ## New Contest Workflow
 
 1. Compute the target contest folder from the contest type and round.

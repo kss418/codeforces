@@ -2,7 +2,7 @@
 
 A / Rating : $800$ / Implementation
 
-B / Rating : $800$ / Implementation, String
+B / Rating : $800$ / Implementation, Strings
 
 C / Rating : $800$ / Implementation
 

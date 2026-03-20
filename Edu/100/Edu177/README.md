@@ -4,7 +4,7 @@ A / Rating : $-$ / Math
 
 B / Rating : $-$ / Prefix_Sum
 
-C / Rating : $-$ / Union_Find, Recursion
+C / Rating : $-$ / Disjoint_Set, Recursion
 
 D / Rating : $-$ / DP, Combinatorics
 

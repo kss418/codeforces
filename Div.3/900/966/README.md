@@ -4,7 +4,7 @@ A / Rating : $800$ / Implementation, Strings
 
 B / Rating : $800$ / Implementation
 
-C / Rating : $1000$ / Tree_map, Strings
+C / Rating : $1000$ / Tree_Map, Strings
 
 D / Rating : $1200$ / Two_Pointers, Prefix_Sum
 
