@@ -66,6 +66,8 @@ $-$
   - `E-1` -> `E1`
   - `G-1` -> `G1`
 - If the official API does not provide a `rating` field for that problem yet, keep `$-$`.
+- For simultaneous `Div. 1` / `Div. 2` rounds, `problemset.problems` may lag or omit some merged-division ratings.
+- In that case, verify the rating from the official Codeforces problem page for that exact problem before leaving `$-$`.
 - Do not infer or guess ratings from tags, contest type, or third-party color markup.
 - If a README has a wrong contest URL header, fix the header to the actual contest ID before applying ratings.
 - This matters especially for named rounds such as `Educational`, `Global`, `Hello`, `Good Bye`, `Pinely`, or `EPIC`, where the folder key may not equal the contest ID.
