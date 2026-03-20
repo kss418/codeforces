@@ -1,8 +1,8 @@
 # https://codeforces.com/contest/2130
 
-A / Rating : $-$ / Greedy
+A / Rating : $800$ / Greedy
 
-B / Rating : $-$ / Greedy, Constructive
+B / Rating : $1100$ / Greedy, Constructive
 
 C / Rating : $-$ / Sorting, Greedy, Sweeping
 

@@ -1,9 +1,9 @@
 # https://codeforces.com/contest/2048
 
-A / Rating : $-$ / Math
+A / Rating : $800$ / Math
 
-B / Rating : $-$ / Greedy
+B / Rating : $900$ / Greedy
 
-C / Rating : $-$ / Bruteforce
+C / Rating : $1200$ / Bruteforce
 
-D / Rating : $-$ / Greedy, Binary_Search
+D / Rating : $1600$ / Greedy, Binary_Search

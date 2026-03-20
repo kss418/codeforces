@@ -1,15 +1,15 @@
 # https://codeforces.com/contest/2050
 
-A / Rating : $-$ / Implementation
+A / Rating : $800$ / Implementation
 
-B / Rating : $-$ / Greedy
+B / Rating : $1100$ / Greedy
 
-C / Rating : $-$ / DP
+C / Rating : $1200$ / DP
 
-D / Rating : $-$ / Greedy
+D / Rating : $1300$ / Greedy
 
-E / Rating : $-$ / DP, Strings
+E / Rating : $1500$ / DP, Strings
 
-F / Rating : $-$ / Number_Theory, Segment_Tree
+F / Rating : $1700$ / Number_Theory, Segment_Tree
 
-G / Rating : $-$ / DP, Trees, Greedy
+G / Rating : $1900$ / DP, Trees, Greedy

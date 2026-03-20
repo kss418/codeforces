@@ -1,13 +1,13 @@
 # https://codeforces.com/contest/2044
 
-A / Rating : $-$ / Math
+A / Rating : $800$ / Math
 
-B / Rating : $-$ / Implementation, Strings
+B / Rating : $800$ / Implementation, Strings
 
-C / Rating : $-$ / Math, Greedy
+C / Rating : $800$ / Math, Greedy
 
-D / Rating : $-$ / Constructive, Greedy
+D / Rating : $1100$ / Constructive, Greedy
 
-E / Rating : $-$ / Math
+E / Rating : $1300$ / Math
 
-G-1 / Rating : $-$ / DFS, Graphs
+G-1 / Rating : $1700$ / DFS, Graphs

@@ -1,10 +1,10 @@
-# https://codeforces.com/contest/2070
+# https://codeforces.com/contest/2125
 
-A / Rating : $-$ / Ad_Hoc, Sorting
+A / Rating : $800$ / Ad_Hoc, Sorting
 
-B / Rating : $-$ / Number_Theory, Ad_Hoc
+B / Rating : $900$ / Number_Theory, Ad_Hoc
 
-C / Rating : $-$ / Math, Number_Theory
+C / Rating : $1100$ / Math, Number_Theory
 
-D / Rating : $-$ / DP, Segment_Tree
+D / Rating : $1600$ / DP, Segment_Tree
 

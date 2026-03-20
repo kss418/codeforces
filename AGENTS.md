@@ -53,6 +53,23 @@ $-$
 - Do not use color markup such as `\color{...}` in ratings.
 - By default, list only the problems that actually have source files in that contest folder, unless the user asks for placeholders for unsolved problems.
 
+## Rating Source Rules
+
+- Use official Codeforces API data first when filling or refreshing ratings.
+- Primary endpoints:
+  - `https://codeforces.com/api/problemset.problems`
+  - `https://codeforces.com/api/contest.list`
+- Use `contest.list` to verify the real contest ID and contest name.
+- Use `problemset.problems` to fetch the problem rating.
+- Match ratings by `(contestId, index)`.
+- For README labels like `E-1`, `E-2`, `G-1`, or `G-2`, remove the hyphen when matching against the API:
+  - `E-1` -> `E1`
+  - `G-1` -> `G1`
+- If the official API does not provide a `rating` field for that problem yet, keep `$-$`.
+- Do not infer or guess ratings from tags, contest type, or third-party color markup.
+- If a README has a wrong contest URL header, fix the header to the actual contest ID before applying ratings.
+- This matters especially for named rounds such as `Educational`, `Global`, `Hello`, `Good Bye`, `Pinely`, or `EPIC`, where the folder key may not equal the contest ID.
+
 ## Image Rules
 
 - Shared Codeforces images live directly under `Images/`.

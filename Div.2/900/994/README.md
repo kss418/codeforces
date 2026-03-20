@@ -1,9 +1,9 @@
 # https://codeforces.com/contest/2049
 
-A / Rating : $-$ / Greedy
+A / Rating : $800$ / Greedy
 
-B / Rating : $-$ / Greedy, Case_Work
+B / Rating : $1300$ / Greedy, Case_Work
 
-C / Rating : $-$ / DFS
+C / Rating : $1500$ / DFS
 
 ![My Image](https://github.com/kss418/Codeforces/blob/main/Images/994.png)

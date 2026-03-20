@@ -1,13 +1,13 @@
 # https://codeforces.com/contest/2128
 
-A / Rating : $-$ / Greedy
+A / Rating : $800$ / Greedy
 
-B / Rating : $-$ / Greedy, Constructive
+B / Rating : $1100$ / Greedy, Constructive
 
-C / Rating : $-$ / Ad_Hoc, Math
+C / Rating : $1200$ / Ad_Hoc, Math
 
-D / Rating : $-$ / Ad_Hoc, Segment_Tree
+D / Rating : $1600$ / Ad_Hoc, Segment_Tree
 
-E-1 / Rating : $-$ / Prefix_Sum, Binary_Search
+E-1 / Rating : $1900$ / Prefix_Sum, Binary_Search
 
 
