@@ -8,6 +8,6 @@ C / Rating : $1100$ / Greedy, Sorting
 
 D / Rating : $1200$ / Greedy, Sorting
 
-E / Rating : $1400$ / Number_Theory, Ad_Hoc
+E / Rating : $1400$ / Number_Theory, GCD
 
-F / Rating : $2000$ / Trees, Map
+F / Rating : $2000$ / Tree, Set_Map
