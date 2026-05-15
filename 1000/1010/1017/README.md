@@ -1,4 +1,4 @@
-# https://codeforces.com/contest/2065
+# https://codeforces.com/contest/2094
 
 A / Rating : $800$ / Implementation
 
@@ -15,4 +15,3 @@ F / Rating : $1600$ / Constructive, Ad_Hoc
 G / Rating : $1700$ / Deque, Math
 
 H / Rating : $1900$ / Number_Theory, Binary_Search, Sqrt_Decomposition
-
