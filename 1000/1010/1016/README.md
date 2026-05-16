@@ -8,7 +8,7 @@ B / Rating : $900$ / Greedy
 
 C / Rating : $1000$ / Number_Theory
 
-D / Rating : $1400$ / Divide_And_Conquer
+D / Rating : $1400$ / DNC
 
 E / Rating : $1500$ / Binary_Search
 
