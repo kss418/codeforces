@@ -1,5 +1,7 @@
 # https://codeforces.com/contest/1791
 
+## Solutions
+
 A / Rating : $800$ / Implementation
 
 B / Rating : $800$ / Implementation

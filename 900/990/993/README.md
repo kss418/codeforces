@@ -1,5 +1,7 @@
 # https://codeforces.com/contest/2044
 
+## Solutions
+
 A / Rating : $800$ / Math
 
 B / Rating : $800$ / Implementation, String

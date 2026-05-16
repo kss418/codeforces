@@ -1,5 +1,7 @@
 # https://codeforces.com/contest/2009
 
+## Solutions
+
 A / Rating : $800$ / Bruteforce, Math
 
 B / Rating : $800$ / Implementation, Bruteforce
