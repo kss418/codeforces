@@ -1,5 +1,7 @@
 # https://codeforces.com/contest/1770
 
+## Solutions
+
 A / Rating : $1000$ / Priority_Queue
 
 B / Rating : $1000$ / Constructive

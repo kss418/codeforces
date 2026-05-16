@@ -1,5 +1,7 @@
 # https://codeforces.com/contest/2057
 
+## Solutions
+
 A / Rating : $800$ / Greedy
 
 B / Rating : $1000$ / Greedy, Sorting
